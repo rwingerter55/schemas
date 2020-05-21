@@ -252,7 +252,7 @@
   </SynsetRelType>
   <SynsetRelType rdf:about="http://globalwordnet.github.io/schemas/wn#domain_topic">
     <rdf:type rdf:resource="http://globalwordnet.github.io/schemas/wn#SenseRelType"/>
-    <rdfs:comment xml:lang="en">A relation between two concepts where B is a a scientific domain (e</rdfs:comment>
+    <rdfs:comment xml:lang="en">A relation between two concepts where B is a scientific domain</rdfs:comment>
     <rdfs:label xml:lang="en">domain topic</rdfs:label>
   </SynsetRelType>
   <SynsetRelType rdf:about="http://globalwordnet.github.io/schemas/wn#entails">
